@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: O diretório intermediário (x64\Release\) contém arquivos compartilhados de outro projeto (ConsoleApplication1.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Gerando código
+  0 of 1025 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  ConsoleApplication1.vcxproj -> C:\Users\byte\Documents\descompactar_v8\ConsoleApplication1\x64\Release\OTC_V8_DEV_DESCRYPT.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
